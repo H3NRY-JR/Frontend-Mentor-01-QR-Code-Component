@@ -46,11 +46,13 @@ body {
   font-weight: bold;
   font-style: normal;
   font-size: 22px;
+  line-height: 120%;
   color: rgba(31, 49, 79, 1);
 }
 
 .font-default {
   font-size: 15px;
   padding-top: 16px;
+  line-height: 140%;
   color: rgba(104, 119, 141, 1);
 }
