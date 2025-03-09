@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: none;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  background-color: rgba(213, 225, 239, 1);
+}
+
+.qr-card {
+  margin: auto;
+  height: 499px;
+  width: 320px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 16px 16px 0px 16px;
+  flex-direction: column;
+}
+
+.qr-code-img {
+  height: 288px;
+  width: 288px;
+  background-image: url("images/image-qr-code.png");
+  background-size: 100%;
+  border-radius: 10px;
+}
+
+.text-container {
+  padding: 16px 16px 40px 16px;
+
+  text-align: center;
+}
+
+.font-outfit {
+  font-family: "Outfit", sans-serif;
+}
+
+.font-h-bold {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 22px;
+  color: rgba(31, 49, 79, 1);
+}
+
+.font-default {
+  font-size: 15px;
+  padding-top: 16px;
+  color: rgba(104, 119, 141, 1);
+}
