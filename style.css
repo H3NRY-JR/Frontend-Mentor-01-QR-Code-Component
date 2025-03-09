@@ -27,8 +27,6 @@ body {
 .qr-code-img {
   height: 288px;
   width: 288px;
-  background-image: url("images/image-qr-code.png");
-  background-size: 100%;
   border-radius: 10px;
 }
 
