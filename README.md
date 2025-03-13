@@ -4,7 +4,8 @@ Project 01 following the Frontend Mentor Learning Path: Getting started on Front
 
 [Live access](https://frontend-mentor-qr-code-component-theta-six.vercel.app/)
 
-![image](https://github.com/user-attachments/assets/d15f3872-0da2-4c32-94ab-dedcfb2a5f0d)
+![image](https://github.com/user-attachments/assets/0b78b6aa-78ee-4725-a0b7-fb50a7c2e847)
+
 
 
 # Technologies Used
